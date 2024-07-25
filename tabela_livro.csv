@@ -1,0 +1,101 @@
+Titulo do Livro,Autor,Categoria,Ano de Publicação,Ativo
+Head First Design Patterns,Eric Freeman,Programming,2004,FALSE
+A Moreninha,Joaquim Manuel de Macedo,Romance,1844,TRUE
+O Alquimista,Paulo Coelho,Fantasy,1988,FALSE
+Capitães da Areia,Jorge Amado,Fiction,1937,FALSE
+O Guarani,José de Alencar,Romance,1857,FALSE
+Eloquent JavaScript,Marijn Haverbeke,Programming,2011,TRUE
+JavaScript Patterns,Stoyan Stefanov,Programming,2010,TRUE
+A Hora da Estrela,Clarice Lispector,Fiction,1977,TRUE
+Dom Casmurro,Machado de Assis,Fiction,1899,TRUE
+Dom Casmurro,Machado de Assis,Fiction,1899,TRUE
+Grande Sertão: Veredas,João Guimarães Rosa,Fiction,1956,TRUE
+A Paixão Segundo G.H.,Clarice Lispector,Fiction,1964,FALSE
+Ensaio sobre a Cegueira,José Saramago,Fiction,1995,FALSE
+Fluent Python,Luciano Ramalho,Programming,2015,TRUE
+O Auto da Compadecida,Ariano Suassuna,Comedy,1955,FALSE
+O Primo Basílio,Eça de Queirós,Fiction,1878,FALSE
+The Pragmatic Programmer,Andrew Hunt,Programming,1999,FALSE
+O Cortiço,Aluísio Azevedo,Fiction,1890,TRUE
+Head First Design Patterns,Eric Freeman,Programming,2004,FALSE
+The Art of Computer Programming,Donald Knuth,Programming,1968,FALSE
+Design Patterns,Erich Gamma,Programming,1994,FALSE
+Refactoring,Martin Fowler,Programming,1999,FALSE
+Mar Morto,Jorge Amado,Fiction,1936,FALSE
+Refactoring,Martin Fowler,Programming,1999,FALSE
+Code Complete,Steve McConnell,Programming,1993,FALSE
+A Moreninha,Joaquim Manuel de Macedo,Romance,1844,FALSE
+O Alienista,Machado de Assis,Fiction,1882,TRUE
+JavaScript: The Good Parts,Douglas Crockford,Programming,2008,FALSE
+Python Crash Course,Eric Matthes,Programming,2015,FALSE
+Structure and Interpretation of Computer Programs,Harold Abelson,Programming,1985,FALSE
+Senhora,José de Alencar,Romance,1875,FALSE
+The Mythical Man-Month,Fred Brooks,Programming,1975,TRUE
+O Cortiço,Aluísio Azevedo,Fiction,1890,FALSE
+A Paixão Segundo G.H.,Clarice Lispector,Fiction,1964,FALSE
+Ensaio sobre a Cegueira,José Saramago,Fiction,1995,FALSE
+C Programming Language,Brian Kernighan,Programming,1978,FALSE
+Clean Code,Robert C. Martin,Programming,2008,TRUE
+Morte e Vida Severina,João Cabral de Melo Neto,Poetry,1955,TRUE
+Design Patterns,Erich Gamma,Programming,1994,TRUE
+"Amar, Verbo Intransitivo",Mário de Andrade,Fiction,1927,TRUE
+Code Complete,Steve McConnell,Programming,1993,TRUE
+Vidas Secas,Graciliano Ramos,Fiction,1938,TRUE
+The Pragmatic Programmer,Andrew Hunt,Programming,1999,TRUE
+A Hora da Estrela,Clarice Lispector,Fiction,1977,FALSE
+Refactoring,Martin Fowler,Programming,1999,TRUE
+Memórias Póstumas de Brás Cubas,Machado de Assis,Fiction,1881,TRUE
+"Amar, Verbo Intransitivo",Mário de Andrade,Fiction,1927,TRUE
+Fluent Python,Luciano Ramalho,Programming,2015,TRUE
+The Mythical Man-Month,Fred Brooks,Programming,1975,TRUE
+Memórias Póstumas de Brás Cubas,Machado de Assis,Fiction,1881,FALSE
+JavaScript: The Good Parts,Douglas Crockford,Programming,2008,TRUE
+JavaScript: The Definitive Guide,David Flanagan,Programming,1996,FALSE
+O Alquimista,Paulo Coelho,Fantasy,1988,FALSE
+Head First Design Patterns,Eric Freeman,Programming,2004,FALSE
+A Moreninha,Joaquim Manuel de Macedo,Romance,1844,FALSE
+O Guarani,José de Alencar,Romance,1857,TRUE
+C Programming Language,Brian Kernighan,Programming,1978,FALSE
+Learning Python,Mark Lutz,Programming,1999,TRUE
+Clean Code,Robert C. Martin,Programming,2008,TRUE
+The Art of Computer Programming,Donald Knuth,Programming,1968,TRUE
+O Cortiço,Aluísio Azevedo,Fiction,1890,FALSE
+JavaScript: The Definitive Guide,David Flanagan,Programming,1996,FALSE
+Introduction to the Theory of Computation,Michael Sipser,Programming,1997,FALSE
+You Don't Know JS,Kyle Simpson,Programming,2014,FALSE
+Structure and Interpretation of Computer Programs,Harold Abelson,Programming,1985,TRUE
+Design Patterns,Erich Gamma,Programming,1994,FALSE
+Structure and Interpretation of Computer Programs,Harold Abelson,Programming,1985,TRUE
+Mar Morto,Jorge Amado,Fiction,1936,TRUE
+C Programming Language,Brian Kernighan,Programming,1978,FALSE
+Grande Sertão: Veredas,João Guimarães Rosa,Fiction,1956,TRUE
+Capitães da Areia,Jorge Amado,Fiction,1937,FALSE
+Vidas Secas,Graciliano Ramos,Fiction,1938,FALSE
+O Alienista,Machado de Assis,Fiction,1882,FALSE
+Learning Python,Mark Lutz,Programming,1999,TRUE
+O Auto da Compadecida,Ariano Suassuna,Comedy,1955,TRUE
+Python Crash Course,Eric Matthes,Programming,2015,TRUE
+Grande Sertão: Veredas,João Guimarães Rosa,Fiction,1956,TRUE
+Senhora,José de Alencar,Romance,1875,TRUE
+Eloquent JavaScript,Marijn Haverbeke,Programming,2011,FALSE
+Introduction to the Theory of Computation,Michael Sipser,Programming,1997,TRUE
+Iracema,José de Alencar,Romance,1865,FALSE
+Effective Java,Joshua Bloch,Programming,2001,FALSE
+O Alienista,Machado de Assis,Fiction,1882,FALSE
+O Auto da Compadecida,Ariano Suassuna,Comedy,1955,FALSE
+A Hora da Estrela,Clarice Lispector,Fiction,1977,TRUE
+"Amar, Verbo Intransitivo",Mário de Andrade,Fiction,1927,TRUE
+Morte e Vida Severina,João Cabral de Melo Neto,Poetry,1955,TRUE
+JavaScript Patterns,Stoyan Stefanov,Programming,2010,TRUE
+Code Complete,Steve McConnell,Programming,1993,TRUE
+Effective Java,Joshua Bloch,Programming,2001,TRUE
+Capitães da Areia,Jorge Amado,Fiction,1937,TRUE
+The Pragmatic Programmer,Andrew Hunt,Programming,1999,FALSE
+You Don't Know JS,Kyle Simpson,Programming,2014,TRUE
+JavaScript: The Definitive Guide,David Flanagan,Programming,1996,TRUE
+Python Crash Course,Eric Matthes,Programming,2015,FALSE
+Eloquent JavaScript,Marijn Haverbeke,Programming,2011,TRUE
+O Primo Basílio,Eça de Queirós,Fiction,1878,FALSE
+Morte e Vida Severina,João Cabral de Melo Neto,Poetry,1955,TRUE
+Dom Casmurro,Machado de Assis,Fiction,1899,FALSE
+Iracema,José de Alencar,Romance,1865,FALSE
