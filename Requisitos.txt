@@ -1,0 +1,4 @@
+pandas
+flask==3.0.3
+
+pip install -r Bibliotecas.txt
