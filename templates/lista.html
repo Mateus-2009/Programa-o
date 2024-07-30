@@ -1,16 +1,45 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ titulo }}</title>
-</head>
-<body>
-    <h1>{{ titulo }}</h1>
-    <ul>
-        {% for livro in lista_de_livros %}
-            <li>{{ livro }}</li>
-        {% endfor %}
-    </ul>
-</body>
+<html>
+  <head>
+    <!-- Charset utf-8 para corrigir problemas de caracter especiais -->
+    <meta charset="utf-8" />
+    <title>Biblioteca</title>
+
+    <!-- Estilo usando CDN para o bootstrap-->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    />
+
+    <!-- Estilo usando CSS interno -->
+    <style>
+      footer {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="page-header">
+        <h1>Listagem de Livros - SENAI</h1>
+      </div>
+      <table class="table table-striped table-hover">
+        <thead class="thead-default">
+          <tr>
+            <td>Dom Casmurro</td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>O Senhor dos Anéis: A Sociedade do Anel</td>
+          </tr>
+        </tbody>
+      </table>
+    <footer>
+      <p>&copy; 2024 SENAI. Todos os direitos reservados.</p>
+    </footer>
+  </body>
 </html>
+
+</div>
+
