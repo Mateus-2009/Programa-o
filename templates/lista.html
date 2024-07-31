@@ -1,45 +1,182 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <html>
   <head>
-    <!-- Charset utf-8 para corrigir problemas de caracter especiais -->
-    <meta charset="utf-8" />
-    <title>Biblioteca</title>
-
-    <!-- Estilo usando CDN para o bootstrap-->
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-    />
-
-    <!-- Estilo usando CSS interno -->
+    <title>Currículo Vitae</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
     <style>
-      footer {
+      body {
+        font-family: "Roboto", Arial, sans-serif;
+        color: #333;
+        background-color: #f4f4f4;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+      }
+
+      h1 {
+        background-color: #0077b6;
+        color: #fff;
+        padding: 15px;
+        border-radius: 5px;
         text-align: center;
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+
+      h2 {
+        color: #0077b6;
+        border-bottom: 2px solid #0077b6;
+        padding-bottom: 5px;
+        margin-top: 20px;
+        font-size: 20px;
+      }
+
+      .secao {
+        background-color: #fff;
+        border-radius: 5px;
+        padding: 15px;
+        margin-bottom: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      label {
+        font-weight: bold;
+        color: #333;
+        margin-right: 10px;
+      }
+
+      a {
+        text-decoration: none;
+        color: #0077b6;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .vcard {
+        margin-bottom: 20px;
+      }
+
+      .photo {
+        float: right;
+        border-radius: 50%;
+        margin-left: 20px;
+        margin-top: -15px;
+      }
+
+      .adr {
+        margin-top: 10px;
+      }
+
+      #footnote {
+        text-align: center;
+        margin-top: 30px;
+        font-size: 0.8em;
+        color: #666;
       }
     </style>
   </head>
+
   <body>
-    <div class="container">
-      <div class="page-header">
-        <h1>Listagem de Livros - SENAI</h1>
+    <h1>Currículo Vitae</h1>
+    <a class="url" href="/inicio">Início</a><br />
+
+    <div class="secao">
+      <h2>Dados Pessoais</h2>
+      <div id="hcard-Julio-Cezar-Oidella" class="vcard">
+        <img
+          src="https://media.licdn.com/dms/image/D4D03AQFa1IR-9KmREA/profile-displayphoto-shrink_400_400/0/1719626359062?e=1727913600&v=beta&t=Jhfkzrvj_W7A5-k0VTnZUXEeFJLX_w-SmaRGXlirSyI"
+          alt="photo of Julio"
+          class="photo"
+          width="100"
+          height="100"
+        />
+        <span class="given-name">Julio Cezar</span>
+        <span class="family-name">Oidella</span>
+        <br />
+        <a class="email" href="mailto:juliooidella@gmail.com"
+          >juliooidella@gmail.com</a
+        ><br />
+        <a class="url" href="http://linkedin.com/in/juliooidella"
+          >linkedin.com/in/juliooidella</a
+        ><br />
+        <div class="adr">
+          <span class="locality">Pato Branco</span>
+          ,
+          <span class="region">Paraná</span>
+        </div>
       </div>
-      <table class="table table-striped table-hover">
-        <thead class="thead-default">
-          <tr>
-            <td>Dom Casmurro</td>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>O Senhor dos Anéis: A Sociedade do Anel</td>
-          </tr>
-        </tbody>
-      </table>
-    <footer>
-      <p>&copy; 2024 SENAI. Todos os direitos reservados.</p>
-    </footer>
+    </div>
+
+    <div class="secao">
+      <h2>Experiência Profissional</h2>
+
+      <p><label>Empresa</label>VIASOFT</p>
+      <p><label>Cargo</label>Desenvolvedor em IA</p>
+      <p><label>Período</label>julho de 2022 - Presente</p>
+
+      <p><label>Cargo</label>Head de Atendimento</p>
+      <p><label>Período</label>janeiro de 2022 - julho de 2022</p>
+
+      <p><label>Cargo</label>Head de Implantação</p>
+      <p><label>Período</label>janeiro de 2021 - janeiro de 2022</p>
+
+      <p><label>Cargo</label>Analista de Suporte</p>
+      <p><label>Período</label>dezembro de 2016 - janeiro de 2021</p>
+
+      <p><label>Empresa</label>Flessak Eletro Industrial S/A</p>
+      <p><label>Cargo</label>Técnico de Suporte de TI</p>
+      <p><label>Período</label>dezembro de 2013 - julho de 2016</p>
+    </div>
+
+    <div class="secao">
+      <h2>Formação Acadêmica</h2>
+
+      <p>
+        <label>Instituição</label>Instituto de Gestão e Tecnologia da Informação
+      </p>
+      <p><label>Curso</label>MBA em Gestão de Projetos</p>
+      <p><label>Período</label>2020 - 2022</p>
+
+      <p><label>Curso</label>MBA em Inteligência de Negócio</p>
+      <p><label>Período</label>2018 - 2019</p>
+
+      <p><label>Instituição</label>Unipar - Universidade Paranaense</p>
+      <p><label>Curso</label>Bacharelado em Administração</p>
+      <p><label>Período</label>2013 - 2016</p>
+
+      <p><label>Instituição</label>Data Science Academy</p>
+      <p><label>Curso</label>Business Analytics</p>
+      <p><label>Período</label>2017</p>
+    </div>
+
+    <div class="secao">
+      <h2>Certificações</h2>
+      <p>
+        <label>Certificado</label>Machine Learning e Data Science com Python de
+        A à Z
+      </p>
+      <p><label>Certificado</label>Python Fundamentos para Análise de Dados</p>
+    </div>
+
+    <div class="secao">
+      <h2>Publicações</h2>
+      <p>
+        <label>Título</label>Aplicação da metodologia FMEA na validação de
+        processos administrativos e industriais na Flessak Eletro Industrial S/A
+      </p>
+      <a
+        class="url"
+        blank
+        href="https://ojs.brazilianjournals.com.br/ojs/index.php/BRJD/article/view/171"
+        >Publicação</a
+      ><br />
+    </div>
+
+    <div id="footnote">
+      <p>2024 - By Julio Cezar Oidella</p>
+    </div>
   </body>
 </html>
-
-</div>
-
