@@ -1,4 +1,4 @@
-import pandas as pd
+'''import pandas as pd
 
 df = pd.read_csv("tabela_livro.csv")
 #print(df.info())
@@ -18,7 +18,7 @@ livro = {
 df = df.append(livro, ignore_index=True)
 
 #2 ex
-livros_programacao = df[df["Categoria"]== "Programação"]
+livros_programacao = df[df["Categoria"]== "Programação"]'''
 
 
 
@@ -39,3 +39,4 @@ lista_de_livros = [livro0, livro1, livro2]
 
 for livro in lista_de_livros:
     print(livro.titulo)'''
+
